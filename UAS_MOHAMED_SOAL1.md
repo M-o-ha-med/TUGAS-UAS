@@ -79,31 +79,32 @@ dengan kata lain, operator ini menukar setiap baris dan kolom pada matriks
        
 
 ## Output
-==============================
-Nama  : Mohamed
-NIM  : 1227050074
-==============================
-        soal nomor 1
-==============================
-Masukkan angka untuk nilai ke [0][0]1
-Masukkan angka untuk nilai ke [0][1]2
-Masukkan angka untuk nilai ke [0][2]3
-Masukkan angka untuk nilai ke [1][0]4
-Masukkan angka untuk nilai ke [1][1]5
-Masukkan angka untuk nilai ke [1][2]6
-==============================
-      sebelum transponse
-==============================
-1 4
-2 5
-3 6
-
-
-==============================
-     setelah transponse
-==============================
-1 2 3
-4 5 6
-Lanjut ? (Y/N) :
-
-
+				==============================
+				Nama  : Mohamed
+				NIM  : 1227050074
+				==============================
+				        soal nomor 1
+				==============================
+				Masukkan angka untuk nilai ke [0][0]1
+				Masukkan angka untuk nilai ke [0][1]2
+				Masukkan angka untuk nilai ke [0][2]3
+				Masukkan angka untuk nilai ke [1][0]4
+				Masukkan angka untuk nilai ke [1][1]5
+				Masukkan angka untuk nilai ke [1][2]6
+				==============================
+				      sebelum transponse
+				==============================
+				1 4
+				2 5
+				3 6
+				
+				
+				==============================
+				     setelah transponse
+				==============================
+				1 2 3
+				4 5 6
+				Lanjut ? (Y/N) :N
+				
+				
+				
